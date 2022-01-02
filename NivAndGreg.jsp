@@ -11,7 +11,7 @@
   </head>
   <body>
     <center> 
-      <font color="blue" size="14"> ~~~~ Niv and Greg's Project ~~~~ </font> 
+      <font color="blue" size="14"> ~~~~ Niv and Greg's Project ~~~~  </font> 
     </center>
   </body>
 </html>
